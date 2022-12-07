@@ -1,1 +1,2 @@
-# Machine-Learning
+# Predictive Analytics 
+CUNY certification projects
